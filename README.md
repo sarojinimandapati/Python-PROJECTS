@@ -1,1 +1,1 @@
-# EDA-on-company-insurence-data
+# EDA-on-vehicle-insurence-data
